@@ -1,0 +1,18 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+
+# ===== Virtual Env =====
+venv/
+.venv/
+Venv1/
+
+# ===== Environment Variables =====
+.env
+
+# ===== Outputs / Runtime Files =====
+outputs/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
